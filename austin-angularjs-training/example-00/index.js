@@ -1,5 +1,4 @@
 (function () {
-  'use strict';
-
-  angular.module('skytutorial', ['sky']);
+    'use strict';
+    angular.module('skytutorial', ['sky']);
 }());
